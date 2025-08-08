@@ -5,14 +5,14 @@
 
 ---
 
-## 🎮 About Me
+## About Me
 I’m a **Computer Science Co-op Student at Concordia University**  
 Passionate about **Unity, C#, software engineering, and 3D graphics**.  
 I enjoy turning ideas into interactive worlds, from core mechanics to polished systems.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### **Languages**
 <p>
@@ -58,7 +58,7 @@ I enjoy turning ideas into interactive worlds, from core mechanics to polished s
 
 ---
 
-## 📫 Contact
+##  Contact
 <p>
   <a href="mailto:ch_adu@live.concordia.ca" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
